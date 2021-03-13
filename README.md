@@ -13,3 +13,5 @@ A Bootstrap 4.4 theme for GroceryCRUD. Modifed from @ariomoklo's [Tablestrap](ht
 3. Add FontAwesome to the &lt;head&gt; of your projects' view files.
 
     How to : <https://fontawesome.com/start>
+    
+4. Make sure to load the Jquery lib befor datatables
